@@ -7,9 +7,9 @@ This repository contains a WIKI describing how to get started using School Windo
 
 [Rate Limits](https://github.com/schoolwindow/Partner-API-Documentation/wiki/Rate-Limits)
 
-[GET /api/partner/clients/partner/{:id}](https://github.com/schoolwindow/Partner-API-Documentation/wiki/GET--api-partner-clients-partner-%7B:id%7D-(Get-client-by-your-internal-ID))
-
 [GET /api/partner/clients/{:id}](https://github.com/schoolwindow/Partner-API-Documentation/wiki/GET--api-partner-clients-%7B:id%7D-(Get-client-by-School-Window-internal-ID))
+
+[GET /api/partner/clients/partner/{:id}](https://github.com/schoolwindow/Partner-API-Documentation/wiki/GET--api-partner-clients-partner-%7B:id%7D-(Get-client-by-your-internal-ID))
 
 [GET /api/partner/users?client_id={:id}](https://github.com/schoolwindow/Partner-API-Documentation/wiki/GET--api-partner-users%3Fclient_id=%7B:id%7D)
 
